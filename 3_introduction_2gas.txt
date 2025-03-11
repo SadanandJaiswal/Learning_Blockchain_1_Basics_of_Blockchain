@@ -1,0 +1,23 @@
+Transaction fee: = gasPrice * gasused
+A transaction fee in blockchain refers to the cost users pay to have their transactions processed and confirmed by the network. These fees incentivize miners (in Proof of Work, PoW) or validators (in Proof of Stake, PoS) to include transactions in a block.
+
+gas price: In blockchain networks, gas price refers to the cost per unit of computation required to execute transactions or smart contracts
+
+gas limit: 
+
+block reward: 
+
+burnt: amount of cryptocurrency or token permanently removed from circulation
+
+
+gas fee:
+1) base: minimum gas fee
+2) max: 
+3) max priority: 
+
+1 ether = 1e9 gwei = 1e18 wei
+
+
+
+
+

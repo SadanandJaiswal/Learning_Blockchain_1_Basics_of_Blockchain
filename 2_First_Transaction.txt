@@ -1,0 +1,17 @@
+https://ethereum.org/en/
+
+To do transaction on any of the blockchain, first we need to have wallet (Metamask)
+
+password: version 2.0
+
+Etherscan.io -> website to view account, transaction details on etheerium blockchain
+
+Ethereum mainnet: main network where real ethereum are used for transaction
+
+We will use test network for learning, as they run will fake money
+
+sopelia test network
+
+get the free sepolia for learning: https://cloud.google.com/application/web3/faucet/ethereum/sepolia
+
+Connect the wallet to sopelia testnet

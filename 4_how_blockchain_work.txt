@@ -1,0 +1,29 @@
+hash: unique fixed length string to identify piece of data
+
+mining: the process of finding the solution to the blockchain problem (hash with four starting zero)
+
+block: list of transaction minned together
+
+block structure:
+block, nonce, data, prev (hash), hash(use all block(no), nonce, data)
+
+nonce: number used once to find the solution to the blockchain problem
+
+**
+try brute force to nonce to get the number of starting zeros in hash 
+
+genesis block: first block in the blockchain
+
+blockchain: 
+
+**
+decentralized
+
+tokens: 
+
+account addrress: created using public key / is public key
+
+private key: use to sing the transaction
+public key : use to verify the signature
+
+** each blockchain keeps list

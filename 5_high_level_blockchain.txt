@@ -1,0 +1,43 @@
+consensus: 
+
+Types of consensus:
+1) proof of Work
+2) proof of Stake
+
+chain selection:
+
+sybil resistance:
+
+block confirmation: number of block added to the chain after our transaction added to the block
+
+nakamoto consensus: combination of proof of work and longest chain selection
+
+
+
+** minner are in proof of work network
+** validator are in proof of stake network
+
+
+Attack that can happen on blockchain:
+1) sybil attack:
+2) 51% attack: 
+
+
+bigger the blockchain is more decentralized and more secure
+
+
+** proof of work use lots of electricity
+
+eth2.0 will have proof of stake
+
+
+scalibility:
+
+sharding:
+
+layer1: base layer blocchain implementation , e.g: ethereum , bitcoin, avalanche
+layer2: any application built on top of layer 1 , e.g: chainlink, optimism
+
+rollups: 
+
+

@@ -1,0 +1,14 @@
+instaling wsl to run linux commands in terminal
+wsl --install
+
+gitpod
+
+************* start with etherjs (ethers-simple-storage) ***************
+need oen simple storage contract
+
+-> use solc-js to compile the solidity code 
+
+======================== continue in etheres-simple-storage directory ==================
+here we will learn how to compile solidity with the solcjs
+how to use etherjs to create, deploy, interact with the contarcts 
+deploy to ganache / testnet

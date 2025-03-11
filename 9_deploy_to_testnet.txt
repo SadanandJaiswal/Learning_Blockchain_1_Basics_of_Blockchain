@@ -1,0 +1,19 @@
+// connect the smart contract to wallet after compiling
+
+link token contract: to know the faucet, etc
+
+deploy the contract by connecting the wallet to remix
+
+use the contract as normally on remix
+
+// need to confirm the transaction when contract make changes to blockchain state
+
+// contract deployed to network will have address (use to see the transaction done in the contract)
+
+// EVM : Ethereum virtual machine
+
+// EVM compatiable blockchain: avalance, fantom, polygon
+
+// deployed smart contract address:
+0xfC5a53a326335E987dd865F8e755c596d2f3F754
+

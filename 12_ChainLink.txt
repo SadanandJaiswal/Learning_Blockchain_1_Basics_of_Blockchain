@@ -1,0 +1,53 @@
+// Ethereum Transaction Structure
+// Nonce: transaction count for the account
+// Gas Price
+// Gas Limit
+// to
+// Value
+// Data
+// v, r, s: components of transaction signature
+
+payable keyword: 
+
+revert: undo the chages made when function is not completed
+e.g: if in fund function number is set to 5 and require statement is not passed then transaction spent in setting value to 5 will be reverted
+
+
+// Oracle Problem / Smart contract connectivity problem
+// Smart Contracts are unable to connect with external systems, data feeds, APIs, existing payment systems or any other off-chain resources on their own.
+
+soltion to this problem:
+Blockchain Oracle: Any device that interacts with the off-chain world to provide external data or computation to smart contracts.
+
+Chain link:
+can be completely customized to bring any data any ethernal computation
+
+data.chain.link
+
+http://docs.chain.link/
+
+Features of chain link:
+1) chainlink data feed:
+2) chainlink VRF:
+3) chainlink keepers:
+4) chainlink ANY APIs: 
+
+blockchain node can't conenct to api but chainlink do
+
+whenever we request data from chainlink node we need to some oracle gas / link token
+add test links to metamak account
+
+************************* API Interaction with oracle chain link*************************
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,32 @@
+repo: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbm9IdFk0VmpTQnBVNHR5YmdVRkJoaVd6dEVrUXxBQ3Jtc0tuVjVWMFpNXzZMdVdWY0FvWlMxSjNwczdCcjFmdElvR1Nxamk5eHpqZzFlSVpET3ZlTTREVUV0Qnl2Nmd2LTUwTHNOa0VVWlFFN1FXOXduM0NxWmZEVld1WkFYQjZrNE02cnJwRmVoWFZZaHJxN0Q0OA&q=https%3A%2F%2Fgithub.com%2Fsmartcontractkit%2Ffull-blockchain-solidity-course-js&v=gyMwXuJrbJQ
+
+What is Blockchain?
+Blockchain is a decentralized, distributed ledger technology that records transactions across multiple computers in a secure and transparent way. It ensures data integrity by making it nearly impossible to alter past transactions without altering all subsequent blocks, requiring network consensus.
+
+Q) Hybrid smart contract?
+
+Q) What is a Smart Contract?
+A smart contract is a self-executing contract with the terms of the agreement directly written into lines of code. It automatically executes and enforces actions when predefined conditions are met, without requiring intermediaries.
+
+Q) Advantage and Disadvantage of Blockchain?
+
+Q) Chain-Link
+
+Q) web3?
+
+Q) Purpose of smart contracts
+
+Q) decentralized oracle network
+
+Immutable, decentralized, transparent
+
+Q) Benifits of Blockchain?
+decentralized
+transparency and flexibility
+speed and efficiency
+security and immutibility
+counterparty risk removal
+trust minimized aggrements
+
+Q) DAOs?
+

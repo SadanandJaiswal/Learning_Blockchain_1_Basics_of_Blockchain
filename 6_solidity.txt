@@ -1,0 +1,16 @@
+doubts related to solidity, ethereum
+    https://ethereum.stackexchange.com/
+    stack overflow
+    chatgpt
+    github repository
+
+remix : use to write solidity smart contract
+
+solidity: programming language used to write contracts
+
+create file: simpleStorage.sol
+
+*************************************** starting with solidity *****************************************
+
+smart contract deployed has its address
+
