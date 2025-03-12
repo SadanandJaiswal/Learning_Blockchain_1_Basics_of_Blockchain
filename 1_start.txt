@@ -1,4 +1,4 @@
-repo: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbm9IdFk0VmpTQnBVNHR5YmdVRkJoaVd6dEVrUXxBQ3Jtc0tuVjVWMFpNXzZMdVdWY0FvWlMxSjNwczdCcjFmdElvR1Nxamk5eHpqZzFlSVpET3ZlTTREVUV0Qnl2Nmd2LTUwTHNOa0VVWlFFN1FXOXduM0NxWmZEVld1WkFYQjZrNE02cnJwRmVoWFZZaHJxN0Q0OA&q=https%3A%2F%2Fgithub.com%2Fsmartcontractkit%2Ffull-blockchain-solidity-course-js&v=gyMwXuJrbJQ
+repo: https://github.com/smartcontractkit/full-blockchain-solidity-course-js
 
 What is Blockchain?
 Blockchain is a decentralized, distributed ledger technology that records transactions across multiple computers in a secure and transparent way. It ensures data integrity by making it nearly impossible to alter past transactions without altering all subsequent blocks, requiring network consensus.
